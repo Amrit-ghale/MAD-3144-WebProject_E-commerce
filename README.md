@@ -1,2 +1,2 @@
-# MAD-3144-WebProject_ToursAndTravel
-Tours and Travel Website
+# MAD-3144-WebProject_E-commerce website
+E-commerce Websote
